@@ -1,6 +1,8 @@
 # AutoImageGenearatorFromText_ImgurUploader
 This is a simple Python script that creates an image from your clipboard or from your input. Gives it a nice background and uploads to imgur. It also copies the imgur direct link to your clipboard. Have fun using it!
 
+![alt text](http://i.imgur.com/6hZrUFk.png "AutoImageGenearatorFromText_ImgurUploader")
+
 # How to use it?
 It's a very simple Python script. The main purpose of this script to automatically create a image from your given text. I mainly made this to create social background image in less time. In a few clicks you got your image ready and you can publish the image anywhere. 
 
